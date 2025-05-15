@@ -1,0 +1,12 @@
+{
+	"dev":{
+		"url":"https://demo.automationtesting.in/Register.html",
+		"pageloadtimeout":"90",
+		"implicitwaittime":"30"
+	},
+	"prod":{
+		"url":"https://demo.automationtesting.in/Register.html",
+		"pageloadtimeout":"90",
+		"implicitwaittime":"30"
+	}
+}

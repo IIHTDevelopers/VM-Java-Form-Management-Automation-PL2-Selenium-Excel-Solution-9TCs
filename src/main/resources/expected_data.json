@@ -1,0 +1,53 @@
+{
+	"HomePage_Title":{
+		"pageTitle":"Register"
+	},
+	"newTab_Title":{
+		"pageTitle":"Selenium"
+	},
+	"newWindow_Title":{
+		"pageTitle":"Selenium"
+	},
+	"newMultipleWindow_Title":{
+		"pageTitle":"Selenium"
+	},
+		"userdetails":{
+			"firstName":"surya",
+			"lastName":"Nayak",
+			"adds":"Cuttack, Odhisha -754006",
+			"emaiI":"nayaksurya50@gmail.com",
+			"phoneNo":"9124590608",
+			"gender":"Male",
+			"language":"English",
+			"skills":"Java",
+			"country":"India",
+			"year":"1996",
+			"month":"June",
+			"day":"25",
+			"password":"Surya@123456",
+			"confirmPassword":"Surya@123456",
+			"CountryName":"Australia"
+	},
+	"alerts_Page":{
+		"alertsTitle":"Alerts"
+	},
+	"alerts_message":{
+		"alertsMessage":"I am an alert box!"
+	},
+	"PannelMessage":{
+		"PanneBodyTwoMessage":"In this Automation tool, each and every functionality will be achieved by Single line code."
+	},
+	"autoCompleteTextBox":{
+		"autoCompleteTextBoxValue":"Auto Complete Text box value."
+	},
+	"LoginPage_Title":{
+		"pageTitle":"SignIn"
+	},
+  	"DragAndDropPage_Title":{
+		"pageTitle":"Drag and Drop"
+	},
+	"Successfull_message":{
+		"Message_After_ClickingSakinaliumCrossBrowserTestingOption":"You've selected: Cross Browser Testing"
+	}
+	
+}
